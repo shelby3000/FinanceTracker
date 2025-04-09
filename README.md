@@ -14,4 +14,4 @@ A Java app to track finances using MySQL.
 - Export to file
 
 ## Sample Output
-[Add a screenshot]
+
