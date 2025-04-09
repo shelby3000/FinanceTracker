@@ -1,0 +1,3 @@
+Balance: $950.0
+income: $1000.0
+food: $50.0
