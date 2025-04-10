@@ -15,3 +15,5 @@ A Java app to track finances using MySQL.
 
 ## Sample Output
 
+![Output1](https://github.com/user-attachments/assets/0d1a45c5-c112-49fc-8668-c787ff197be8)
+
